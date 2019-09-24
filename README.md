@@ -5,3 +5,4 @@ This notebook creates a wordcloud image using the kaggle wine review dataset. It
 Finally, the wordcloud object is displayed on the canvas using the matplotlib.pyplot library.
 
 *** All credit goes to Duong Vu from DataCamp: https://www.datacamp.com/community/tutorials/wordcloud-python *** 
+*** Kaggle dataset can be located here: https://www.kaggle.com/zynicide/wine-reviews ***
